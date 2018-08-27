@@ -1,2 +1,13 @@
 # MoldingTofu.github.io
-Personal Website 
+Personal Website
+
+# TODO
+
+- [x] Push page
+- [x] Images
+- [ ] Colors
+- [ ] Personal description/greeting
+- [ ] About tab with more descriptions
+- [ ] Projects tab
+- [ ] Do more projects to populate projects tab
+- [ ] Work experiences tab
