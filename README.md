@@ -2,10 +2,9 @@
 Personal Website
 
 # TODO
-
 - [x] Push page
 - [x] Images
-- [ ] Colors
+- [x] Colors
 - [ ] Personal description/greeting
 - [ ] About tab with more descriptions
 - [ ] Projects tab
