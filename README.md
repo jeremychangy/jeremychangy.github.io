@@ -1,12 +1,10 @@
 # MoldingTofu.github.io
-Personal Website
+Personal website with cooler template
 
 # TODO
-- [x] Push page
-- [x] Images
-- [x] Colors
-- [ ] Personal description/greeting
-- [ ] About tab with more descriptions
-- [ ] Projects tab
-- [ ] Do more projects to populate projects tab
-- [ ] Work experiences tab
+- [ ] implement visitor map
+- [ ] implement visitor data
+- [ ] index
+- [ ] projects
+- [ ] work experience
+
