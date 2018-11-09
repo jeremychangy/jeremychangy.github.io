@@ -2,6 +2,7 @@
 Personal website with cooler template
 
 # TODO
+- [x] resume
 - [ ] implement visitor map
 - [ ] implement visitor data
 - [ ] index
