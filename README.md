@@ -8,4 +8,3 @@ Personal website with cooler template
 - [ ] index
 - [ ] projects
 - [ ] work experience
-
